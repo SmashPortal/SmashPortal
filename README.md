@@ -1,6 +1,6 @@
 @SmashPortal on just about every platform.
 
-- Head moderator of [r/Incorgnito](https://reddit.com/r/Incorgnito)
-- Moderator for [r/magicTCG](https://reddit.com/r/magicTCG)
+Community director and head moderator of r/Incorgnito.
+Councilor and moderator for r/magicTCG.
 
 UX/UI Complainer
